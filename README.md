@@ -9,8 +9,8 @@ Requires:
 
 ```
 npm install
-npm start # http://localhost:3000
+npm start
 
-# with server running
-node client # calls the server with example SOAP call
+# make example call to server running on 15099
+node client
 ```
